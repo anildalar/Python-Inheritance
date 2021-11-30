@@ -1,0 +1,27 @@
+Single Inheritance
+	When a child class inherits only a single parent class.
+
+
+Multiple Inheritance
+	When a child class inherits from more than one parent class.
+
+		A		B		C
+				
+				D	
+
+
+Multilevel Inheritance
+	When a child class becomes a parent class for another child class.
+		
+	A
+		B
+			C
+				D
+					E
+
+Hierarchical Inheritance
+	Hybrid Inheritance
+	Hybrid inheritance involves multiple inheritance taking place in a single program.
+
+https://www.edureka.co/blog/inheritance-in-python/#whatisinheritance
+
